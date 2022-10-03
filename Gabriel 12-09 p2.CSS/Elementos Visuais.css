@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body {
+    background-color: #d1f2fa;
+    color: #000000;
+    font-family: Papyrus, fantasy;
+}
+
+h1 {
+    background-color: red;
+}
+
+
+img {
+    width: 305px;
+    padding: 5px;
+    border: 2px solid #000000;
+}
+
+figure {
+    width: 320px;
+    padding: 5px;
+    border: 2px solid #000000;
+}
+
+figcaption {
+    text-align: center;
+    font-family: Papyrus, fantasy;
+}
+
+footer {
+    color: #333333;
+    font-size: 0.75em;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
